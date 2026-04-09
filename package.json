@@ -1,0 +1,23 @@
+{
+  "name": "orion-agentic-os-mac",
+  "version": "0.1.0-alpha",
+  "description": "Local, agentic AI operating system for task automation and recursive self-improvement on macOS.",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --check src/index.js"
+  },
+  "keywords": [
+    "AI Agent",
+    "Open Source",
+    "macOS",
+    "Automation",
+    "Recursive Improvement",
+    "Self-Correcting AI"
+  ],
+  "author": "Arthur Matei Petrea",
+  "license": "MIT"
+}
